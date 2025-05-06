@@ -1,0 +1,31 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "This is a simple timestamp microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayabong-a/timestamp-microservice.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": {
+    "name": "Ayabonga",
+    "email": "mtsoloayabonga@gmail.com"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ayabong-a/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/ayabong-a/timestamp-microservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
